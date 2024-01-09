@@ -2,7 +2,7 @@
 
 [Click Me!](https://kaplanh.github.io/Yandex-Landing-Page/)
 
-![google landing page](https://github.com/kaplanh/Google-Landing-Page-with-Flex/assets/101884444/c497f557-b8d6-41b0-94ab-146664ff589b)
+![yandex landing page](https://github.com/kaplanh/Yandex-Landing-Page/assets/101884444/d20eedc2-207b-45a3-ba43-67b4e4714161)
 
 ## Project-003 : Yandex Landing Page
 
