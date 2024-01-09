@@ -1,10 +1,9 @@
-# Yandex Landing Page
+## Project-004 : Yandex Landing Page
 
 [Click Me!](https://kaplanh.github.io/Yandex-Landing-Page/)
 
 ![yandex landing page](https://github.com/kaplanh/Yandex-Landing-Page/assets/101884444/d20eedc2-207b-45a3-ba43-67b4e4714161)
 
-## Project-003 : Yandex Landing Page
 
 ## Description
 
