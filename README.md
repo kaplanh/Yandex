@@ -16,7 +16,7 @@ Project aims to create yandex landing page.
 ## Project Skeleton
 
 ```
-003-google-landing-page (folder)
+003-yandex-landing-page (folder)
 |
 |----readme.md
 |----assets
